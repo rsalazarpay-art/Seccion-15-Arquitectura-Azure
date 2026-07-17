@@ -6,6 +6,8 @@ La infraestructura cloud fue diseñada utilizando Microsoft Azure para alojar la
 
 ## Diagrama de arquitectura de red
 
+![Diagrama de arquitectura](Diagrama_Arquitectura_Red_Azure.png.jpeg)
+
 ```text
                 Usuario
                    |
